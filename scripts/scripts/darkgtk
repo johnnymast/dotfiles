@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export GTK_THEME="Adwaita:dark"
+$1 $2 

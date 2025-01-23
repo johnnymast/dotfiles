@@ -1,0 +1,7 @@
+alias ff=fastfetch
+alias bootwindows="sudo efibootmgr -n 000 ; reboot"
+alias open="nautilus $1 &"
+alias files="nautilus $1 &"
+alias clock='tty-clock -c -s -b -f "%H:%M:%S" -C 3 -B "#6a2c8d" -t'
+alias y=yazi
+alias ls=lsd

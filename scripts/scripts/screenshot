@@ -1,0 +1,19 @@
+#!/bin/sh
+
+
+if [ ! -x /usr/bin/grim ]; then
+    echo "/usr/bin/girm is not installed please install the grim package."
+fi
+
+if [ ! -x /usr/bin/slurp ]; then
+    echo "/usr/bin/slurp is not installed please install the slup package."
+fi
+
+if [ ! -x /usr/bin/wl-copy ]; then
+    echo "/usr/bin/wl-copy does not exist please install the wl-clipboard package."
+fi
+
+
+grim -g "$(slurp -d)" | wl-copy
+##slurp -d - | wl-copy
+
