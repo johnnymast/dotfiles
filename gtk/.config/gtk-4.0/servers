@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="smb://192.168.178.241/" added="2025-01-25T15:55:39.712000Z" modified="2025-01-25T15:55:39.712002Z" visited="2025-01-25T15:55:39.712000Z">
+    <title>Windows shares on 192.168.178.241</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-01-25T15:55:39.712001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="afp://192.168.178.141/Shared/" added="2025-01-25T16:01:53.274547Z" modified="2025-01-25T16:01:53.274550Z" visited="2025-01-25T16:01:53.274548Z">
+    <title>Shared on DS128</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-01-25T16:01:53.274549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="afp://192.168.178.81/" added="2025-01-25T16:05:24.418010Z" modified="2025-01-25T16:05:24.418013Z" visited="2025-01-25T16:05:24.418011Z">
+    <title>Bigdog</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-01-25T16:05:24.418012Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
