@@ -4,5 +4,5 @@ file:///home/johnny/Pictures
 file:///home/johnny/Videos
 file:///home/johnny/Downloads
 smb://192.168.178.241/sparklebeat/ Sparklebeat
-afp://192.168.178.141/Shared/ Shared
 afp://bigdog@192.168.178.81/homes/ Backup
+afp://192.168.178.141/Shared/ Shared
