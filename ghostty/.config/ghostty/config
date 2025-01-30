@@ -1,7 +1,7 @@
 theme = "catppuccin-mocha"
 background-opacity = 0.90
 
-keybind = ctrl+a=toggle_window_decorations
+keybind = ctrl+slash=toggle_window_decorations
 
 # Some shaders can be found in this repo, they're usually uploaded to discord
 # https://github.com/hackrmomo/ghostty-shaders
