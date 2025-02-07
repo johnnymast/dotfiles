@@ -33,4 +33,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="smb://dj.local/" added="2025-01-31T16:51:34.860409Z" modified="2025-01-31T16:51:34.860412Z" visited="2025-01-31T16:51:34.860410Z">
+    <title>Windows shares on dj.local</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-01-31T16:51:34.860411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
