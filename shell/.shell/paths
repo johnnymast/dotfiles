@@ -1,4 +1,4 @@
 export PATH=$PATH:~/miniconda3/condabin
 export PATH=/home/johnny/.cargo/bin:$PATH
 export PATH=$PATH:/home/johnny/.local/share/gem/ruby/3.3.0/bin
-export PATh-$PATH:/home/johnny/scripts
+export PATH=$PATH:/home/johnny/scripts

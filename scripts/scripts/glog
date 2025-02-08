@@ -22,4 +22,4 @@ glog() {
     setterm -linewrap on
 }
 
-glog()
+glog
