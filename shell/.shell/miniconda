@@ -1,5 +1,5 @@
 source ~/miniconda3/bin/activate
 
 
-conda init --all
+conda init --all > /dev/null
 
